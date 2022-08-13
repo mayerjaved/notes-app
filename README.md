@@ -1,1 +1,2 @@
 The following app allows the user to take notes and then delete them by tapping on the note itself. The app uses a reuseable task component that adds each note into an array. When the user taps on an existing note the index of that note is passed through the splice function which enables the note to be deleted.
+![Screenshot_20220813-005237_notes-app](https://user-images.githubusercontent.com/68202033/184472479-7c2c8fca-a130-453c-80ff-807aed22a8ab.jpg)
